@@ -1,4 +1,4 @@
-### Dev Python/A.dados 👋
+### Desenvolvedor Python/Analista de Dados 👋
 
 <!--
 **itzmarcos/itzmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
