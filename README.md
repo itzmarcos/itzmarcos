@@ -1,10 +1,9 @@
-
----
+</a> 
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="left"
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -39,8 +38,20 @@
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
-
-</p>
-
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=itzmarcos&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmarcos&theme=dark&layout=compact&custom_title=Tecnoloias&langs_count=9"
+/>
