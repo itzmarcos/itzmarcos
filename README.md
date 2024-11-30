@@ -1,3 +1,7 @@
+# Marcos
+
+## Desenvolver Python/HTML ##
+E ai, me chamo Marcos, tenho 30 anos e sou natural do Ceará, sou apaixonado por tecnologia, e adoro aproveita o máximo que a vida pode oferecer!
 </a> 
 
 ### 🤖 Linguagens e Tecnologias
